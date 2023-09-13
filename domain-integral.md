@@ -11,4 +11,4 @@
 
 ## Remarks
 
-Can be expanded to "domain-partitioned integral" for further specificity.  The key idea here is that the Riemann integral calculates area by partitioning the domain (as opposed to the codomain/Lebesgue integral).
+Can be expanded to "domain-partitioned integral" for further specificity.  The key idea here is that the domain/Riemann integral calculates area by partitioning the domain (as opposed to the codomain/Lebesgue integral).
